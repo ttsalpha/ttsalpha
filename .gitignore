@@ -1,0 +1,12 @@
+# misc
+.DS_Store
+*.pem
+
+# Editor
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
