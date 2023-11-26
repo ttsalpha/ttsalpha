@@ -1,8 +1,6 @@
-## Hello ⎋, I'm Son Tran
+<h1 align=center> Son Tran @ttsalpha </h1>
 
-- 👻 A passionate developer in Hanoi
-- 💻 Studies at VNU University of Engineering and Technology
-- 🌱 I’m currently working on Express.js
-- 🔭 Read more about me at [ttsalpha.github.io][ttsalpha-url]
-
-[ttsalpha-url]:https://ttsalpha.github.io
+<p align=center> A passionate developer in Hanoi </p>
+<p align=center> Read more about me at 
+	<a href="https://ttsalpha.com"> ttsalpha.com </a>
+</p>
